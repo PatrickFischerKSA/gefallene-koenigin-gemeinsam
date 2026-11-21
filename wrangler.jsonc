@@ -1,0 +1,13 @@
+{
+  "name": "gefallene-koenigin-gemeinsam",
+  "main": "worker/index.mjs",
+  "account_id": "22a2c05c1bf9bca855767eb6dad549c2",
+  "compatibility_date": "2026-11-21",
+  "workers_dev": true,
+  "r2_buckets": [
+    {
+      "binding": "MEDIA",
+      "bucket_name": "gefallene-koenigin-medien"
+    }
+  ]
+}
